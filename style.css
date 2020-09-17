@@ -1,0 +1,23 @@
+#navBarContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* img{
+    max-width: 100%;
+    min-height: 12rem;
+} */
+
+.card-body{
+    min-height: 10rem;
+}
+
+.title{
+    padding-top: 1rem;
+}
+
+td img{
+    width: 249px !important; 
+    height: 150px !important;
+}
